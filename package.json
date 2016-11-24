@@ -1,14 +1,14 @@
 {
   "name": "node-excel-export-sumeet",
   "version": "1.3.0",
-  "description": "Node-Excel-Export",
+  "description": "Node-Excel-Export By Sumeet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreyan-andreev/node-excel-export.git"
+    "url": "git+https://github.com/SumeetGohil/node-excel-export.git"
   },
   "keywords": [
     "excel"
@@ -16,9 +16,9 @@
   "author": "Andreyan Andreev <andreyan.andreev@live.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andreyan-andreev/node-excel-export/issues"
+    "url": "https://github.com/SumeetGohil/node-excel-export/issues"
   },
-  "homepage": "https://github.com/andreyan-andreev/node-excel-export#readme",
+  "homepage": "https://github.com/SumeetGohil/node-excel-export#readme",
   "dependencies": {
     "xlsx-style": "^0.8.6"
   }
