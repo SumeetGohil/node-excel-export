@@ -41,7 +41,9 @@ module.exports = {
         }
 
       }
-      data.push(header); //Inject the header at 0
+      // Not Required
+      // Was giving [Object] , [Object] to 2nd Row
+      //data.push(header); //Inject the header at 0
 
       dataset.forEach(record => {
         let row = [];
